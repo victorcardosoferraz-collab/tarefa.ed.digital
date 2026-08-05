@@ -1,1 +1,22 @@
+body {
+background-color: white;
+color: blue;
+font-family: Arial, sans-serif;
+}
+header{
+background-color: aquamarine;
+color:paleturquoise;
+text-align: center;
+padding: 30px;
+}
+h1{
+    font-size: 36px;
+}
+h2 {
+    color:bisque;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
 
