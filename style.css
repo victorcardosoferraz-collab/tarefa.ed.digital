@@ -4,8 +4,8 @@ color: blue;
 font-family: Arial, sans-serif;
 }
 header{
-background-color: aquamarine;
-color:paleturquoise;
+background-color: rgb(17, 40, 139);
+color:rgb(88, 4, 223);
 text-align: center;
 padding: 30px;
 }
@@ -13,7 +13,7 @@ h1{
     font-size: 36px;
 }
 h2 {
-    color:bisque;
+    color:rgb(196, 238, 255);
 }
 p{
     font-size: 18px;
