@@ -1,11 +1,11 @@
 body {
     background-color: white;
-    color: blue;
+    color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
 }
 
 header {
-    background-color: rgb(238, 97, 92);
+    background-color: rgb(155, 56, 56);
     color: rgb(7, 1, 17);
     text-align: center;
     padding: 30px;
@@ -38,7 +38,7 @@ section {
 
 img {
     width: 100%;
-    max-width: 100%;
+    max-width: 600px;
     display: block;
     margin: auto;
     border-radius: 12px;
